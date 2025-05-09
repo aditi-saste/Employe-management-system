@@ -27,4 +27,23 @@ A web-based application built using **PHP (Laravel)** and **MySQL** to manage em
 ---
 
 ## 📁 Project Structure
+employee-management/
+├── app/
+│ └── Http/
+│ └── Controllers/
+│ └── EmployeeController.php
+├── database/
+│ └── migrations/
+│ └── create_employees_table.php
+├── resources/
+│ └── views/
+│ ├── layout.blade.php
+│ ├── employees/
+│ ├── index.blade.php
+│ ├── create.blade.php
+│ └── edit.blade.php
+├── routes/
+│ └── web.php
+├── .env
+└── README.md
 
