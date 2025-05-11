@@ -1,6 +1,6 @@
 # 🧑‍💼 Employee Management System
 
-A web-based application built using **PHP (Laravel)** and **MySQL** to manage employee records — including CRUD operations, department details, and salary management.
+A web-based application built using **PHP (Laravel)** and **SQL** to manage employee records — including CRUD operations, department details, and salary management.
 
 ---
 
@@ -21,7 +21,7 @@ A web-based application built using **PHP (Laravel)** and **MySQL** to manage em
 |--------------|------------------------|
 | **Backend**  | PHP (Laravel Framework)|
 | **Frontend** | Blade Templates, HTML, CSS |
-| **Database** | MySQL                  |
+| **Database** | SQL                  |
 | **Tools**    | XAMPP / Laravel Valet  |
 
 ---
@@ -50,3 +50,7 @@ employee-management/
 ## url
 
 http://127.0.0.1:8000/employees
+
+## UI
+
+![image](https://github.com/user-attachments/assets/3810f57e-5ced-4ff1-b354-bf63303f8f17)
